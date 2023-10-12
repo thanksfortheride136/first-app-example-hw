@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.app-container{
+    display: flex;
+    border: 1px solid red;
+    height: 75vh;
+    width: 20vw;
+}
+
+.top-section-container{
+    display: flex;
+    border: 1px solid green;;
+    height: 25vh;
+    width: 20vw;
+}
+
+.side-by-side-container{
+    display: flex;
+    border: 10px solid purple;;
+    height: 100vh;
+    width: 20vw;
+}
